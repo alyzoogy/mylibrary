@@ -1,0 +1,10 @@
+D:\c# app\2019\mylibrary\mylibrary\bin\Debug\mylibrary.exe.config
+D:\c# app\2019\mylibrary\mylibrary\bin\Debug\mylibrary.exe
+D:\c# app\2019\mylibrary\mylibrary\bin\Debug\mylibrary.pdb
+D:\c# app\2019\mylibrary\mylibrary\obj\Debug\mylibrary.csprojAssemblyReference.cache
+D:\c# app\2019\mylibrary\mylibrary\obj\Debug\mylibrary.Form1.resources
+D:\c# app\2019\mylibrary\mylibrary\obj\Debug\mylibrary.Properties.Resources.resources
+D:\c# app\2019\mylibrary\mylibrary\obj\Debug\mylibrary.csproj.GenerateResource.cache
+D:\c# app\2019\mylibrary\mylibrary\obj\Debug\mylibrary.csproj.CoreCompileInputs.cache
+D:\c# app\2019\mylibrary\mylibrary\obj\Debug\mylibrary.exe
+D:\c# app\2019\mylibrary\mylibrary\obj\Debug\mylibrary.pdb
